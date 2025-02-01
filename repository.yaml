@@ -1,4 +1,4 @@
 # https://developers.home-assistant.io/docs/add-ons/repository#repository-configuration
-name: Li Tin O've Weedle Home Assistant add-on repository
-url: 'https://github.com/litinoveweedle/hassio-addons'
-maintainer: Dominik Strnad <litinoveweedle@gmail.com>
+name: Patched Li Tin O've Weedle Home Assistant add-on repository
+url: 'https://github.com/stewi2/hassio-addons-ntopng'
+maintainer: Stefan Will <stefan.will@gmail.com>
