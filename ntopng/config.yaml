@@ -3,8 +3,8 @@ name: ntopng
 version: "0.0.26"
 slug: ntopng
 description: The SoHo FOSS & FREE ntopng with netflow collector
-url: "https://github.com/litinoveweedle/hassio-addons/tree/main/ntopng"
-image: "ghcr.io/litinoveweedle/{arch}-ntopng"
+url: "https://github.com/stewi2/hassio-addons-ntopng/tree/main/ntopng"
+image: "ghcr.io/stewi2/{arch}-ntopng"
 ingress: true
 ingress_port: 0
 ingress_stream: true
