@@ -179,10 +179,10 @@ LABEL \
     io.hass.arch="${BUILD_ARCH}" \
     io.hass.type="addon" \
     io.hass.version=${BUILD_VERSION} \
-    maintainer="Dominik Strnad <litinoveweedle@gmail.com>" \
+    maintainer="Stefan Will <stefan.will@gmail.com>" \
     org.opencontainers.image.title="${BUILD_NAME}" \
     org.opencontainers.image.description="${BUILD_DESCRIPTION}" \
-    org.opencontainers.image.authors="Dominik Strnad <litinoveweedle@gmail.com>" \
+    org.opencontainers.image.authors="Stefan Will <stefan.will@gmail.com>" \
     org.opencontainers.image.licenses="Apache 2.0" \
     org.opencontainers.image.url="https://github.com/${BUILD_REPOSITORY}" \
     org.opencontainers.image.source="https://github.com/${BUILD_REPOSITORY}" \

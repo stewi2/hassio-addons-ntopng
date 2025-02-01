@@ -125,8 +125,7 @@ Copyright (c) 2023 Dominik Strnad
 [contributors]: https://github.com/litinoveweedle/hassio-addons/graphs/contributors
 [discord-ha]: https://discord.gg/c5DvZ4e
 [forum]: https://community.home-assistant.io/t/repository-community-hass-io-add-ons/24705?u=litinoveweedle
-[litin]: https://github.com/litinoveweedle
-[issue]: https://github.com/litinoveweedle/hassio-addons/issues
+[issue]: https://github.com/stewi2/hassio-addons-ntopng/issues
 [reddit]: https://reddit.com/r/homeassistant
-[releases]: https://github.com/litinoveweedle/hassio-addons/ntopng/releases
+[releases]: https://github.com/stewi2/hassio-addons-ntopng/ntopng/releases
 [semver]: http://semver.org/spec/v2.0.0.html
